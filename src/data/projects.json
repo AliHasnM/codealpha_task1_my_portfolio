@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Food Ordering System",
+    "imageSrc": "projects/food-project.png",
+    "description": "I develop this project using C++ language.",
+    "skills": ["C++"],
+    "demo": "https://replit.com/@AliHassan147/Food-Ordering-System-Project",
+    "source": "https://github.com/AliHasnM/Food-Ordering-System-C-"
+  },
+  {
+    "title": "Online Food Ordering System",
+    "imageSrc": "projects/atfoods-project.png",
+    "description": "This project create in PHP.",
+    "skills": ["PHP"],
+    "demo": "https://atfoods.000webhostapp.com/1home.php",
+    "source": "https://github.com/AliHasnM/Online-Food-Ordering-System-in-PHP"
+  },
+  {
+    "title": "Ali Real Estate Hub",
+    "imageSrc": "projects/areh-project.png",
+    "description": "This project create in Rect Js.",
+    "skills": ["React Js"],
+    "demo": "https://65b979da51eb31496903224f--resilient-swan-bd1858.netlify.app/",
+    "source": "https://github.com/AliHasnM/Ali-Real-Estate-Hub"
+  },
+  {
+    "title": "Social Media Dashboard",
+    "imageSrc": "projects/social_dashboard.png",
+    "description": "This project create in Rect Js, Tailwindcss.",
+    "skills": ["React Js", "Tailwindcss"],
+    "demo": "https://6604f493728205332a09520a--keen-cobbler-0993a4.netlify.app/",
+    "source": "https://github.com/AliHasnM/codealpha_task2_social_media_dashboard"
+  },
+  {
+    "title": "Expense Tracker",
+    "imageSrc": "projects/expense_tracker.png",
+    "description": "This project create in Rect Js, Tailwindcss.",
+    "skills": ["React Js", "Tailwindcss"],
+    "demo": "https://6604f59853c957384e0fe665--profound-fudge-b77e2d.netlify.app/",
+    "source": "https://github.com/AliHasnM/codealpha_task3_expense_tracker"
+  },
+  {
+    "title": "myToDo List",
+    "imageSrc": "projects/todo_list.png",
+    "description": "This project create in Rect Js, Tailwindcss.",
+    "skills": ["React Js", "Tailwindcss"],
+    "demo": "https://6604f6bd7dcf8038e4b155ec--benevolent-palmier-614a79.netlify.app/",
+    "source": "https://github.com/AliHasnM/CodeAlpha_Task1"
+  }
+]

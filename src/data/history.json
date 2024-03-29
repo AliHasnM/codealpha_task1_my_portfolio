@@ -1,0 +1,20 @@
+[
+  {
+    "role": "Diploma in Website Development using HTML and CSS",
+    "organisation": "Alison",
+    "completedOn": "6 July, 2023",
+    "imageSrc": "history/alison.png"
+  },
+  {
+    "role": "Starting JavaScript Programming",
+    "organisation": "Alison",
+    "completedOn": "20 January, 2024",
+    "imageSrc": "history/alison.png"
+  },
+  {
+    "role": "JavaScript Version ES6 - Complete Guide",
+    "organisation": "Alison",
+    "completedOn": "20 January, 2024",
+    "imageSrc": "history/alison.png"
+  }
+]
